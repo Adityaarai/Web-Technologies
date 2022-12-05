@@ -18,6 +18,10 @@
     color: white;
 }
 
+.port{
+    color: red;
+}
+
 span{
     color: #C7BCA1;
 }
@@ -62,3 +66,8 @@ button{
  body{
     background-color: lightgray;
  }
+ #intro{
+    font-size: 3vh;
+    background-image: url(cool.jpg);
+ }
+
